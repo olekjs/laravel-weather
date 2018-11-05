@@ -1,0 +1,12 @@
+{
+    "name": "olek/weather",
+    "description": "Simple weather API",
+    "type": "metapackage",
+    "authors": [
+        {
+            "name": "Olek Kaim",
+            "email": "kontakt@olekkaim.pl"
+        }
+    ],
+    "require": {}
+}
