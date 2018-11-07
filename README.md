@@ -16,7 +16,16 @@ Service Provider
 'providers' => [
     ...
     Olekjs\Weather\ServiceProvider::class,
-];
+],
+```
+
+Facades
+
+```
+'aliases' => [
+   ...
+   'Weather' => Olekjs\Weather\Facade::class,
+],
 ```
 
 ## Publish config
